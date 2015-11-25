@@ -30,7 +30,7 @@ public class PrimeNumbers {
 		       }	
 	        } 	
 	      
-	      System.out.println("Prime numbers from 1 to n are :");
+	      System.out.println("Prime numbers from 1 to "+n+" are:");
 	      System.out.println(primeNumbers);
 	}
 
